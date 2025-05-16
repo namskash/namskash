@@ -6,7 +6,7 @@
 - 🛠️ Currently working in **Full-Stack Web Development** and also building an _Android App_
 
 ### 💡 What I’m Working On
-- **Work**: I work as a Full-Stack Dev the Integrations team at [G2](https://my.g2.com)!
+- **Work**: I work as a Full-Stack Dev at [G2](https://my.g2.com)!
 - Spend Sense – An Android App that allows you to track your daily spends!
 
 ### ⚙️ Tech Stack
