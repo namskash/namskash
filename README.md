@@ -29,7 +29,7 @@ Languages/Frameworks/Tools I'm comfortable in:
 - I sketch & paint (12+ years) 🖌️ | [A time-lapse of a painting](https://youtu.be/G-Gll16_Vf8?si=qCtUyNggNeiZQEiV)
 - Yakśagāna artist (17+ years) | [A live performance](https://www.youtube.com/watch?v=P6PS2xTRJS4&list=PLjWaDiwo2h1vstvmZKgI1MqpYhwfNBAtn)
 - I can solve the Rubik's Cube in <12 seconds (10+ years) | [A 11.82s solve ;)](https://youtu.be/TBE4SGvfcCg?si=MyxkXqcapUIZ4iwz) | _P.S: My PB is 7.93s_
-- Test cricket fan 🏏
+- Big Cricket fan (I occasionally play too) 🏏
 - Passionate about film-making, audio/video editing and song covers (10+ years) | [YouTube channel](https://www.youtube.com/NamanKashyap)
 - Fitness enthusiast 🏃
 - Intermediate Chess Player ♟️ _(in a past life)_
