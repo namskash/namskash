@@ -22,6 +22,7 @@ Languages/Frameworks/Tools I'm comfortable in:
 - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 ### ⚡Fun (Non-Tech) Facts About Me
 - Trained Carnatic singer (13+ years) 🎤 | [Carnatic](https://youtube.com/playlist?list=PLmvol7EH9vMy_OxHNuTPKLf5FCHZ0NkrF&si=kOqpvTZjUs5fhYJG) | [A Song Cover](https://www.youtube.com/watch?v=mTCVyXUKwLU)
