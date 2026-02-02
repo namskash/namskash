@@ -9,13 +9,13 @@
 - Learning is my favourite hobby :)
 - Passionate about crafting clean, principle-driven backend + user-friendly, aesthetic frontend!
 - Currently working in **Full-Stack Development**.
-- I just published an _[Android App](https://play.google.com/store/apps/details?id=com.my.spendsense)_ on the Play Store after individually designing, architecting & developing it for ~2 years! [50+ downloads]
+- I just published an _[Android App](https://play.google.com/store/apps/details?id=com.my.spendsense)_ on the Play Store after individually designing, architecting & developing it for ~2 years! [100+ downloads]
 
 "_I use vim btw. Also, I daily-drive EndeavourOS & it's awesome!_"
 
 ### 💡 What I’m Working On
 
-- **Work**: I work as a Full-Stack Dev at [G2](https://my.g2.com)! _(Since Jan '24)_ | [G2 Work Experience Summary]
+- **Work**: I work as a Full-Stack Dev at [G2](https://my.g2.com)! _(Since Jan '24)_ | [G2 Work Experience Summary]()
 - **Personal**: \[PUBLISHED] **SpendSense** – An Android App that allows you to track your daily spends! | [Google Play Store](https://play.google.com/store/apps/details?id=com.my.spendsense) | [GitHub](https://github.com/namskash/Spend-Sense) 📣
 
 ### ⚙️ My Stack
@@ -38,11 +38,12 @@ Languages/Frameworks/Tools I'm comfortable in:
 - I sketch & paint (12+ years) 🖌️ | [A time-lapse of a painting](https://youtu.be/G-Gll16_Vf8?si=qCtUyNggNeiZQEiV)
 - Yakśagāna artist (17+ years) | [A live performance](https://www.youtube.com/watch?v=P6PS2xTRJS4&list=PLjWaDiwo2h1vstvmZKgI1MqpYhwfNBAtn)
 - I can solve the Rubik's Cube in <12 seconds (10+ years) | [A 11.82s solve ;)](https://youtu.be/TBE4SGvfcCg?si=MyxkXqcapUIZ4iwz) | _P.S: My PB is 7.93s_
-- Big Cricket fan (I occasionally play too) 🏏
+- Big Cricket fan. I occasionally play too 🏏
 - Passionate about film-making, audio/video editing and song covers (10+ years) | [YouTube channel](https://www.youtube.com/NamanKashyap)
 - Fitness enthusiast 🏃
 - Intermediate Chess Player ♟️ _(in a past life)_
 - Bad Badminton Player 🏸
+- Astrophysics Nerd 🪐 | Grew up watching [Vsauce](https://www.youtube.com/@Vsauce), [Veritasium](https://www.youtube.com/@veritasium), [TED-Ed](https://www.youtube.com/@TEDEd) and I listen to [StarTalk](https://www.youtube.com/@StarTalk)
 
 ### 📑 Blog
 
