@@ -9,9 +9,9 @@
 - Learning is my favourite hobby :)
 - Passionate about crafting clean, principle-driven backend + user-friendly, aesthetic frontend!
 - Currently working in **Full-Stack Development**.
-- I just published an _[Android App](https://play.google.com/store/apps/details?id=com.my.spendsense)_ on the Play Store after individually designing, architecting & developing it for ~2 years! [100+ downloads]
+- I just published an _[Android App](https://play.google.com/store/apps/details?id=com.my.spendsense)_ on the Play Store after individually designing, architecting & developing it for ~2 years! [100+ downloads](https://play.google.com/store/apps/details?id=com.my.spendsense)
 
-"_I use vim btw. Also, I daily-drive EndeavourOS & it's awesome!_"
+"_I use vim btw. Also, I daily-drive EndeavourOS & it's awesome!_" 🐧⌨️
 
 ### 💡 What I’m Working On
 
