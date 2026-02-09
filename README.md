@@ -15,7 +15,7 @@
 
 ### 💡 What I’m Working On
 
-- **Work**: I work as a Full-Stack Dev at [G2](https://my.g2.com)! _(Since Jan '24)_ | [G2 Work Experience Summary]()
+- **Work**: I work as a Full-Stack Dev at [G2](https://my.g2.com)! _(Since Jan '24)_ | [G2 Work Experience Summary](./Professional-Experience/G2.md)
 - **Personal**: \[PUBLISHED] **SpendSense** – An Android App that allows you to track your daily spends! | [Google Play Store](https://play.google.com/store/apps/details?id=com.my.spendsense) | [GitHub](https://github.com/namskash/Spend-Sense) 📣
 
 ### ⚙️ My Stack
