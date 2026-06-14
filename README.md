@@ -40,10 +40,10 @@ Languages/Frameworks/Tools I'm comfortable in:
 - I can solve the Rubik's Cube in <12 seconds (10+ years) | [A 11.82s solve ;)](https://youtu.be/TBE4SGvfcCg?si=MyxkXqcapUIZ4iwz) | _P.S: My PB is 7.93s_
 - Big Cricket fan. I occasionally play too 🏏
 - Passionate about film-making, audio/video editing and song covers (10+ years) | [YouTube channel](https://www.youtube.com/NamanKashyap)
+- Astrophysics Nerd 🪐 | Grew up watching [Vsauce](https://www.youtube.com/@Vsauce), [Veritasium](https://www.youtube.com/@veritasium), [TED-Ed](https://www.youtube.com/@TEDEd) and I listen to [StarTalk](https://www.youtube.com/@StarTalk)
 - Fitness enthusiast 🏃
 - Intermediate Chess Player ♟️ _(in a past life)_
 - Bad Badminton Player 🏸
-- Astrophysics Nerd 🪐 | Grew up watching [Vsauce](https://www.youtube.com/@Vsauce), [Veritasium](https://www.youtube.com/@veritasium), [TED-Ed](https://www.youtube.com/@TEDEd) and I listen to [StarTalk](https://www.youtube.com/@StarTalk)
 
 ### 📑 Blog
 
